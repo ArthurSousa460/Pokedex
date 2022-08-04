@@ -1,0 +1,28 @@
+@media(max-width: 620px){
+    .main{
+        padding: 0 15px;
+        gap: 10px;
+    }
+    .btn-seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .pokemon-list{
+        height: 480px;
+    }
+    .container-image{
+        max-height: 230px;
+    }
+    .status h2{
+        max-width: 50%;
+        font-size: 20px;
+    }
+    .status span{
+        font-size: 18px;
+    }
+    
+}
